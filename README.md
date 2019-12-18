@@ -1,6 +1,6 @@
 <h1>Bakery Store</h1>
 
-<p>ERP based Online Bakery Store with PHP and Bootstrap 4</p>
+<p>ERP based Online Bakery Store with MariaDB, Codeigniter 3 and Bootstrap 4</p>
 
 <h2>Module included in this System is</h2>
 <ol>
